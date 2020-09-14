@@ -1,0 +1,9 @@
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\SIDDHARTHA\source\repos\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
